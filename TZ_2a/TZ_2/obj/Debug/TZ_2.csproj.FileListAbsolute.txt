@@ -1,0 +1,7 @@
+C:\Users\drett\source\repos\TZ_2\TZ_2\obj\Debug\TZ_2.csproj.AssemblyReference.cache
+C:\Users\drett\source\repos\TZ_2\TZ_2\obj\Debug\TZ_2.csproj.CoreCompileInputs.cache
+C:\Users\drett\source\repos\TZ_2\TZ_2\bin\Debug\TZ_2.exe.config
+C:\Users\drett\source\repos\TZ_2\TZ_2\bin\Debug\TZ_2.exe
+C:\Users\drett\source\repos\TZ_2\TZ_2\bin\Debug\TZ_2.pdb
+C:\Users\drett\source\repos\TZ_2\TZ_2\obj\Debug\TZ_2.exe
+C:\Users\drett\source\repos\TZ_2\TZ_2\obj\Debug\TZ_2.pdb

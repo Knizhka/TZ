@@ -1,0 +1,7 @@
+C:\Users\drett\source\repos\TZ_4\TZ_4\obj\Debug\TZ_4.csproj.AssemblyReference.cache
+C:\Users\drett\source\repos\TZ_4\TZ_4\obj\Debug\TZ_4.csproj.CoreCompileInputs.cache
+C:\Users\drett\source\repos\TZ_4\TZ_4\bin\Debug\TZ_4.exe.config
+C:\Users\drett\source\repos\TZ_4\TZ_4\bin\Debug\TZ_4.exe
+C:\Users\drett\source\repos\TZ_4\TZ_4\bin\Debug\TZ_4.pdb
+C:\Users\drett\source\repos\TZ_4\TZ_4\obj\Debug\TZ_4.exe
+C:\Users\drett\source\repos\TZ_4\TZ_4\obj\Debug\TZ_4.pdb
